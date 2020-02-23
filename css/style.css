@@ -275,6 +275,9 @@ p{
     width: 16.66666%;
     padding: 0 10px;
 }
+.follow-us-box img{
+    width: 100%;
+}
 footer{
     padding-bottom: 30px;
 }

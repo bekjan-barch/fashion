@@ -259,6 +259,14 @@
        width: 100%;
        padding-right: 0px;
    }
+   .right-side {
+       width: 100%;
+       padding-left: 0px;
+   }
+   .posts {
+       margin-top: 10px;
+       margin-bottom: 30px;
+   }
    .left-side-card {
        margin-bottom: 20px;
    }
